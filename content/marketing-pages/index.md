@@ -32,6 +32,11 @@ blocks:
 
       We've built a few pages for you to get started, take a look around and see
       if you can figure out how to build your own pages and templates.
+  - template: image
+    heading: Hi image
+    imgDescription: This is a good image
+    src: >-
+      https://res.cloudinary.com/tone-studio/image/upload/v1623898839/_ToneProject_Website_2021/20122-UNI-XMAS20/UNICEF-banner-1270x560_bllucw.jpg
 _template: landingPage
 ---
 
